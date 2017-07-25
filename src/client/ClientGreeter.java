@@ -11,7 +11,7 @@ public class ClientGreeter {
       
       //2. Create an integer for the server's port number
       
-      //3. Make a try-catch block that catches any IOExceptions
+      //3. Surround steps 4-9 in a try-catch block that catches any IOExceptions.
     
     	 //4. Create an object of the Socket class. When initializing the object, pass in the ip address and the port number
  
